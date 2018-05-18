@@ -67,7 +67,7 @@
     <RepairType>cosmetic</RepairType>
     <HasPhone>true</HasPhone>
     <HasSecurity>true</HasSecurity>
-    <IsInHiddenBase>false</IsInHiddenBase>
+    <IsInHiddenBase>true</IsInHiddenBase>
     <HasBathhouse>true</HasBathhouse>
     <HasGarage>true</HasGarage>
     <HasPool>true</HasPool>
@@ -175,7 +175,7 @@
     <RepairType>cosmetic</RepairType>
     <HasPhone>true</HasPhone>
     <HasSecurity>true</HasSecurity>
-    <IsInHiddenBase>false</IsInHiddenBase>
+    <IsInHiddenBase>true</IsInHiddenBase>
     <HasBathhouse>true</HasBathhouse>
     <HasGarage>true</HasGarage>
     <HasPool>true</HasPool>
@@ -283,7 +283,7 @@
     <RepairType>cosmetic</RepairType>
     <HasPhone>true</HasPhone>
     <HasSecurity>true</HasSecurity>
-    <IsInHiddenBase>false</IsInHiddenBase>
+    <IsInHiddenBase>true</IsInHiddenBase>
     <HasBathhouse>true</HasBathhouse>
     <HasGarage>true</HasGarage>
     <HasPool>true</HasPool>

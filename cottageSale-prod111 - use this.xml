@@ -67,6 +67,7 @@
     <RepairType>cosmetic</RepairType>
     <HasPhone>true</HasPhone>
     <HasSecurity>true</HasSecurity>
+    <IsInHiddenBase>false</IsInHiddenBase>
     <HasBathhouse>true</HasBathhouse>
     <HasGarage>true</HasGarage>
     <HasPool>true</HasPool>
